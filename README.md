@@ -51,11 +51,9 @@ There are 3 extensions in the footer of appDelegate (after line 47):
 
 => Icons:
 Free download from https://thenounproject.com.
-
 All images are correctly uploaded into Assets' folder in their correct form 1x, 2x 3x
 
 => Goals:
-As gif (and of course code) shown I made:
 1. SpashPage (usefull to create a login form)
 2. List af all Hotels with all the informations
 3. Filter for Reviews or Stars
