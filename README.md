@@ -22,7 +22,7 @@ I used Libraries during this test installed by COCOAPODS:
 
 -> Alamofire | to handle the Api Call
 
--> Gmaps     | to handle the maps rendering  **PLEASE ====> PAY ATTENTION TO THE KEY SHARED
+-> Gmaps     | to handle the maps rendering  **PLEASE ====>  Follow the next steps to add your gmaps API key
 
 To use the project, please use the file named:
 
@@ -79,9 +79,14 @@ Lack the time, I didn't handle all possibility as:
   1. no values retrivied from Api
   2. no connection 
  
-=> Gmaps
+=> Gmaps  
 It is possible to see the location of the hotels on a map. Please, ADD YOUR KEY into this root:
 "Api Services" Folder > EndPointApi.swift > insert as String into value of var authGMaps
+
+If you don't want to create a new gmaps API key, please ask to me I'll share one.
+I cant share here with bitbucket into a pubblic repository.
+
+
 
 For any problem, contact me. 
 
