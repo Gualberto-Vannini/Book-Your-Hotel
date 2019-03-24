@@ -1,0 +1,6 @@
+framework module Pods_lastMinute_GV {
+  umbrella header "Pods-lastMinute_GV-umbrella.h"
+
+  export *
+  module * { export * }
+}
