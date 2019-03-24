@@ -51,6 +51,7 @@ There are 3 extensions in the footer of appDelegate (after line 47):
 
 => Icons:
 Free download from https://thenounproject.com.
+
 All images are correctly uploaded into Assets' folder in their correct form 1x, 2x 3x
 
 => Goals:
@@ -59,8 +60,10 @@ As gif (and of course code) shown I made:
 2. List af all Hotels with all the informations
 3. Filter for Reviews or Stars
 3. Single Page
-4. Hotel's position Map
-5. This detailed documententations <3
+4. Image Carousel
+5. Hotel's position Map
+6. This detailed documententations <3
+
 ******************************************
 
 ***EXTRAS***
