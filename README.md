@@ -60,7 +60,7 @@ As gif (and of course code) shown I made:
 3. Filter for Reviews or Stars
 3. Single Page
 4. Hotel's position Map
-5. This detailed documententatios <3
+5. This detailed documententations <3
 ******************************************
 
 ***EXTRAS***
