@@ -68,6 +68,9 @@ As gif (and of course code) shown I made:
 => Animation:
 A simple animation into the Splash page that helped me to get the time to collect all API data. 
 
+=> Carousel Images:
+Into the Single hotel's page, the header's image has a carousel with all the images presents. Maybe isn't easy to understand without arrow to the left and right or dots above of it but there are many images! Just scrolling to enjoy. 
+
 => UIAlertController:
 They are very usefull to offer information as....my phone number ;)
 
@@ -76,8 +79,10 @@ Due to lack of time, is a bit incomplete: I correct sorted for Reviews and Stars
 
 => There are many TODO stil opened
 Lack the time, I didn't handle all possibility as:
-  1. no values retrivied from Api
-  2. no connection 
+  1. no values retrivied from Api.
+  2. no connection.
+  3. Carousel of the hotel's image into the single page isn't not understandable that there is. 
+  4. Code Refactory. 
  
 => Gmaps  
 It is possible to see the location of the hotels on a map. Please, ADD YOUR KEY into this root:
