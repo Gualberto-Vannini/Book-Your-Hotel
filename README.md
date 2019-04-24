@@ -11,7 +11,7 @@ Xcode 10.1 | Swift 4.2
 
 ******************************************
 
-***EVELOPED ONLY FOR IPHONEXR'SIZE***
+***DEVELOPED ONLY FOR IPHONEXR'SIZE***
 IphoneXR
 
 ******************************************
