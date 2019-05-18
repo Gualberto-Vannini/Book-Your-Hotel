@@ -1,25 +1,25 @@
 
 
-#VIDEO SAMPLE OF THE RESULT WITH IPHONEXR:
+# VIDEO SAMPLE OF THE RESULT WITH IPHONEXR:
 
 https://github.com/Gualberto-Vannini/Sample/blob/master/sample.mov?raw=true
 
-#WRITTEN WITH:
+# WRITTEN WITH:
 Xcode 10.1 | Swift 4.2 
 
 
 
-#DEVELOPED ONLY FOR:
+# DEVELOPED ONLY FOR:
 IphoneXR
 
 
-#SETTING UP:
+# SETTING UP:
 
 I used Libraries during this test installed by COCOAPODS:
 
--> Alamofire | to handle the Api Call
+**Alamofire** | to handle the Api Call
 
--> Gmaps     | to handle the maps rendering  **PLEASE ====>  Follow the next steps to add your gmaps API key
+**Gmaps**     | to handle the maps rendering  **PLEASE ====>  Follow the next steps to add your gmaps API key
 
 To use the project, please use the file named:
 
@@ -58,7 +58,7 @@ All images are correctly uploaded into Assets' folder in their correct form 1x, 
 6. This detailed documententations <3
 
 
-#EXTRAS
+# EXTRAS
 
 **Animation:**
 A simple animation into the Splash page that helped me to get the time to collect all API data. 
