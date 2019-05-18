@@ -25,7 +25,7 @@ To use the project, please use the file named:
 
 lastMinute_GV.xcworkspace
 
-#DEVELOP:
+# DEVELOP:
 
 **Creation labels:**
 I used both methods to create elements: programmatically and with graphically. 
@@ -87,6 +87,7 @@ If you don't want to create a new gmaps API key, please ask to me I'll share one
 I cant share here with bitbucket into a pubblic repository.
 
 
+# CONTACT ME:
 
-**For any problem, contact me. **
+**For any problem, feel free to contact me. **
 
